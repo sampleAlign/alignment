@@ -1,5 +1,5 @@
 # A general image misalignment correction method for tomography experiments
-**Zhen Zhang, Zheng Dong, Hanfei Yan, Ajith Pattammattel, Xiaoxue Bi2, Yuhui Dong, Gongfa Liu, Xiaokang Sun & Yi Zhang**
+**Zhen Zhang, Zheng Dong, Hanfei Yan, Ajith Pattammattel, Xiaoxue Bi, Yuhui Dong, Gongfa Liu, Xiaokang Sun & Yi Zhang**
 
 ### Summary
 We introduce a novel alignment method (OCMC) for tomography datasets that utilizes the sample's outer contour structure to correct joint offsets between projection images. This method has demonstrated high effectiveness in correcting misalignment in both simulated and experimental datasets obtained from various imaging techniques. Furthermore, the proposed method can be integrated into the data acquisition pipeline, enabling real-time data processing.
