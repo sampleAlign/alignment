@@ -42,7 +42,7 @@ Use this bibtex to cite this repository:
 Contributions to this repository are always welcome.
 
 # Requirements
-Python 3.6, numpy 1.3, and other common packages listed in `requirements.txt`
+Python 3.9, numpy 1.22, and other common packages listed in `requirements.txt`
 
 # Other
 Zhen zhang is looking for a **postdoctoral** position with a focus on computed tomography methodology (algorithms, deep learning, etc.), please contact `zznsrl@mail.ustc.edu.cn` if you are interested.
